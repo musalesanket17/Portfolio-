@@ -1,5 +1,20 @@
 # Getting Started with Create React App
 
+1st Time
+Logs: https://app.netlify.com/sites/shankyportfolio/deploys/63172439c76bbe450157fbb1
+Unique Deploy URL: https://63172439c76bbe450157fbb1--shankyportfolio.netlify.app
+Website URL: https://shankyportfolio.netlify.app
+
+2nd Time
+Logs: https://app.netlify.com/sites/shankysportfolio/deploys/63174c3a72ca570a0514542c
+Unique Deploy URL: https://63174c3a72ca570a0514542c--shankysportfolio.netlify.app
+Website URL: https://shankysportfolio.netlify.app
+
+Final 
+Logs:              https://app.netlify.com/sites/netlify-thinks-musalesanket17-is-great/deploys/6318201cc6afe751cb36fe91
+Unique Deploy URL: https://6318201cc6afe751cb36fe91--netlify-thinks-musalesanket17-is-great.netlify.app
+Website URL:       https://netlify-thinks-musalesanket17-is-great.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
