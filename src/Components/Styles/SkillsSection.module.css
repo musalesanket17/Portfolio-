@@ -76,6 +76,32 @@
 .reduxIcon:hover {
   color: rgb(118, 76, 183);
 }
+.mysql:hover {
+  color: #f29111;
+}
+
+.java:hover {
+  color: #5382a1;
+}
+
+.springboot:hover {
+  color: greenyellow;
+}
+
+.mongodb:hover {
+  color: #4DB33D
+  ;
+}
+
+.dotnet:hover {
+  color: #5C2992
+  ;
+}
+
+
+
+
+
 .jsIcon:hover {
   color: rgb(247, 223, 30);
 }

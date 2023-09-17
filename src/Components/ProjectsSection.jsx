@@ -5,9 +5,55 @@ import { SiHtml5 } from "react-icons/si";
 import { SiCss3 } from "react-icons/si";
 import { GrReactjs } from "react-icons/gr";
 import { SiChakraui } from "react-icons/si";
-import { SiMongodb } from "react-icons/si";
 import Fade from "react-reveal/Fade";
+import { GrMysql } from "react-icons/gr";
+import { SiSpringboot } from "react-icons/si";
+import { FaJava } from "react-icons/fa";
+import { SiMongodb } from "react-icons/si";
+import { SiDotnet } from "react-icons/si";
+
 const projects = [
+  {
+    name: " Kalakriti- E-commerce website for Handicrafts",
+    img: "/Handcraft.png",
+    link: "",
+    git: "https://github.com/musalesanket17/Kalakriti--E-commerce-website-for-Handicrafts",
+    about:
+      "Kalakriti is a Handicraft Product Seller Platform .  ",
+    stacks: [
+      <GrReactjs className={styles.stackIcon} />,
+      <GrMysql className={styles.stackIcon} />,
+      <SiSpringboot className={styles.stackIcon} />,
+      <FaJava className={styles.stackIcon} />,
+    ],
+  },
+
+  {
+    name: " Garbage Management System for Smart City ",
+    img: "/SmartCity.png",
+    link: "",
+    git: "https://github.com/musalesanket17/Web-Based-Garbage-Management-System-for-Smart-City",
+    about:
+      "The Web-Based Garbage Management System for Smart City is a platform designed to optimize waste collection .",
+    stacks: [
+      <GrReactjs className={styles.stackIcon} />,
+      <SiMongodb className={styles.stackIcon} />,
+    ],
+  },
+
+  {
+    name: "WheelWonders - Bike Showroom Website",
+    img: "/BikeConsole.png",
+    link: "",
+    git: "https://github.com/musalesanket17/WheelWonders---Bike-Showroom-Website-",
+    about:
+      "Our Bike Showroom Website Console Application is a comprehensive solution designed to streamline the management and presentation of bikes available in our showroom",
+    stacks: [
+      <SiDotnet className={styles.stackIcon} />,
+      <GrMysql className={styles.stackIcon} />,
+    ],
+  },
+
   {
     name: "Weather app",
     img: "/Weather_App.png",

@@ -52,7 +52,7 @@ export function HeroSection() {
           </p>
           <p>Web Developer</p>
           <a
-            href="https://drive.google.com/file/d/1oOJYevWsO6yC69i9RkPi3Yis7dwJ2Y7t/view?usp=sharing"
+            href="https://drive.google.com/file/d/1HXymQKsft2XwliNc_4p6WMf92dzEd9qb/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >

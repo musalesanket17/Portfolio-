@@ -19,11 +19,7 @@ export function AboutSection() {
               I am <span>Sanket Musale</span>{" "}
             </h2>
             <p>
-            A web developer with a vast array of knowledge in
- front end ,
-responsive frameworks and best code
-practices. Look forward to using my skills for gaining
-more experience.
+            I am a highly skilled web developer with a broad expertise in full-stack development, responsive frameworks, and a strong commitment to best coding practices. I am eager to apply my knowledge and contribute to projects that will not only enhance my experience but also push the boundaries of software development.
             </p>
           </div>
         </div>
